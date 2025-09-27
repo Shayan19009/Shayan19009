@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shayan19009
 - 👀 I’m interested in Exchanging ideas about coding
-- 🌱 I’m currently learning MEAN development
+- 🌱 I’m a front end developer with strong grip on React JS Next Js and Vue Js
 - 💞️ I’m looking to collaborate on Front-end Developer job in React js
 - 📫 How to reach me You can mail me at shayanfaisal19009@gmail.com
 
